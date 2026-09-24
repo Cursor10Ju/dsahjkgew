@@ -1,0 +1,2366 @@
+[
+  {
+    "name": "Hibonite",
+    "mineralId": "1897",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hibonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hibonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hibonite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hibonite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Aheylite",
+    "mineralId": "60",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aheylite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aheylite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aheylite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aheylite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Helmutwinklerite",
+    "mineralId": "1854",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Helmutwinklerite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Helmutwinklerite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Helmutwinklerite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Chukanovite",
+    "mineralId": "28917",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chukanovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chukanovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chukanovite_3.jpg"
+    ]
+  },
+  {
+    "name": "Betekhtinite",
+    "mineralId": "650",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Betekhtinite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Betekhtinite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Betekhtinite_3.jpg"
+    ]
+  },
+  {
+    "name": "Schröckingerite",
+    "mineralId": "3584",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schröckingerite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schröckingerite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schröckingerite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schröckingerite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Whiteite-(CaMnMg)",
+    "mineralId": "4278",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Whiteite-(CaMnMg)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Whiteite-(CaMnMg)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Whiteite-(CaMnMg)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Whiteite-(CaMnMg)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Osumilite-(Mg)",
+    "mineralId": "3038",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Osumilite-(Mg)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Osumilite-(Mg)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Osumilite-(Mg)_3.jpg"
+    ]
+  },
+  {
+    "name": "Margarite",
+    "mineralId": "2573",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Margarite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Margarite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Margarite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Margarite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Rastsvetaevite",
+    "mineralId": "26586",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rastsvetaevite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rastsvetaevite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rastsvetaevite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rastsvetaevite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Wermlandite",
+    "mineralId": "4271",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wermlandite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wermlandite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wermlandite_3.jpg"
+    ]
+  },
+  {
+    "name": "Matlockite",
+    "mineralId": "2593",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Matlockite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Matlockite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Matlockite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Matlockite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Gordonite",
+    "mineralId": "1728",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gordonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gordonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gordonite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gordonite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Beryllonite",
+    "mineralId": "644",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beryllonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beryllonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beryllonite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beryllonite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Chloromenite",
+    "mineralId": "6869",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chloromenite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chloromenite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chloromenite_3.jpg"
+    ]
+  },
+  {
+    "name": "Nöggerathite-(Ce)",
+    "mineralId": "52890",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nöggerathite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nöggerathite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nöggerathite-(Ce)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nöggerathite-(Ce)_wiki.png"
+    ]
+  },
+  {
+    "name": "Trembathite",
+    "mineralId": "4010",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Trembathite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Trembathite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Trembathite_3.jpg"
+    ]
+  },
+  {
+    "name": "Nitroplumbite",
+    "mineralId": "55601",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nitroplumbite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nitroplumbite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nitroplumbite_3.jpg"
+    ]
+  },
+  {
+    "name": "Nadorite",
+    "mineralId": "2827",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nadorite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nadorite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nadorite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nadorite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Daubréeite",
+    "mineralId": "1229",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daubréeite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daubréeite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daubréeite_3.jpg"
+    ]
+  },
+  {
+    "name": "Wampenite",
+    "mineralId": "46829",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wampenite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wampenite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wampenite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wampenite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Lillianite",
+    "mineralId": "2400",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lillianite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lillianite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lillianite_3.jpg"
+    ]
+  },
+  {
+    "name": "Rosenhahnite",
+    "mineralId": "3455",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenhahnite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenhahnite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenhahnite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenhahnite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Retgersite",
+    "mineralId": "3489",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Retgersite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Retgersite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Retgersite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Retgersite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Benauite",
+    "mineralId": "622",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Benauite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Benauite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Benauite_3.jpg"
+    ]
+  },
+  {
+    "name": "Daubréelite",
+    "mineralId": "1230",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daubréelite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daubréelite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daubréelite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Amarillite",
+    "mineralId": "183",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Amarillite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Amarillite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Amarillite_3.jpg"
+    ]
+  },
+  {
+    "name": "Delafossite",
+    "mineralId": "1248",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Delafossite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Delafossite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Delafossite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Delafossite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Georgiadesite",
+    "mineralId": "1677",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Georgiadesite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Georgiadesite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Georgiadesite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Georgiadesite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Hoganite",
+    "mineralId": "10919",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hoganite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hoganite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hoganite_3.jpg"
+    ]
+  },
+  {
+    "name": "Samarskite-(Yb)",
+    "mineralId": "27449",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Samarskite-(Yb)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Samarskite-(Yb)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Samarskite-(Yb)_3.jpg"
+    ]
+  },
+  {
+    "name": "Hammarite",
+    "mineralId": "1812",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hammarite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hammarite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hammarite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hammarite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Haiweeite",
+    "mineralId": "1802",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Haiweeite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Haiweeite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Haiweeite_3.jpg"
+    ]
+  },
+  {
+    "name": "Izoklakeite",
+    "mineralId": "2060",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Izoklakeite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Izoklakeite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Izoklakeite_3.jpg"
+    ]
+  },
+  {
+    "name": "Lehmannite",
+    "mineralId": "53217",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lehmannite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lehmannite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lehmannite_3.jpg"
+    ]
+  },
+  {
+    "name": "Despujolsite",
+    "mineralId": "1269",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Despujolsite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Despujolsite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Despujolsite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Despujolsite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Ephesite",
+    "mineralId": "1387",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ephesite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ephesite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ephesite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ephesite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Sabelliite",
+    "mineralId": "3493",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sabelliite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sabelliite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sabelliite_3.jpg"
+    ]
+  },
+  {
+    "name": "Frolovite",
+    "mineralId": "1613",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frolovite_1.png",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frolovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frolovite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frolovite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Holtedahlite",
+    "mineralId": "1924",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Holtedahlite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Holtedahlite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Holtedahlite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Holtedahlite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Lakargiite",
+    "mineralId": "31993",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lakargiite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lakargiite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lakargiite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lakargiite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Magnesiopascoite",
+    "mineralId": "32206",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Magnesiopascoite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Magnesiopascoite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Magnesiopascoite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Magnesiopascoite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Tiptopite",
+    "mineralId": "3973",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tiptopite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tiptopite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tiptopite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tiptopite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Tetrarooseveltite",
+    "mineralId": "3926",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tetrarooseveltite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tetrarooseveltite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tetrarooseveltite_3.jpg"
+    ]
+  },
+  {
+    "name": "Novákite",
+    "mineralId": "2938",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Novákite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Novákite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Novákite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Novákite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Inesite",
+    "mineralId": "2031",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Inesite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Inesite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Inesite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Inesite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Amarantite",
+    "mineralId": "182",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Amarantite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Amarantite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Amarantite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Amarantite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Laptevite-(Ce)",
+    "mineralId": "42866",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Laptevite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Laptevite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Laptevite-(Ce)_3.jpg"
+    ]
+  },
+  {
+    "name": "Ulexite",
+    "mineralId": "4085",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulexite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulexite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulexite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulexite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Hloušekite",
+    "mineralId": "43922",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hloušekite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hloušekite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hloušekite_3.jpg"
+    ]
+  },
+  {
+    "name": "Schreibersite",
+    "mineralId": "3582",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schreibersite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schreibersite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schreibersite_3.jpg"
+    ]
+  },
+  {
+    "name": "Althupite",
+    "mineralId": "149",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althupite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althupite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althupite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althupite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Ferroaluminoceladonite",
+    "mineralId": "6933",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferroaluminoceladonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferroaluminoceladonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferroaluminoceladonite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferroaluminoceladonite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Teepleite",
+    "mineralId": "3901",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Teepleite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Teepleite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Teepleite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Teepleite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Chenite",
+    "mineralId": "987",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chenite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chenite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chenite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chenite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Berndtite",
+    "mineralId": "637",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Berndtite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Berndtite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Berndtite_3.jpg"
+    ]
+  },
+  {
+    "name": "Chibaite",
+    "mineralId": "39335",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chibaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chibaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chibaite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chibaite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Sewardite",
+    "mineralId": "11128",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sewardite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sewardite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sewardite_3.jpg"
+    ]
+  },
+  {
+    "name": "Metaswitzerite",
+    "mineralId": "2688",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Metaswitzerite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Metaswitzerite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Metaswitzerite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Metaswitzerite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kobeite-(Y)",
+    "mineralId": "2232",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kobeite-(Y)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kobeite-(Y)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kobeite-(Y)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kobeite-(Y)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Naumannite",
+    "mineralId": "2866",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Naumannite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Naumannite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Naumannite_3.jpg"
+    ]
+  },
+  {
+    "name": "Kvanefjeldite",
+    "mineralId": "2302",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kvanefjeldite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kvanefjeldite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kvanefjeldite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kvanefjeldite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Daqingshanite-(Ce)",
+    "mineralId": "1224",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daqingshanite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daqingshanite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daqingshanite-(Ce)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Daqingshanite-(Ce)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Hexahydrite",
+    "mineralId": "1891",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hexahydrite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hexahydrite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hexahydrite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hexahydrite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Lazurite",
+    "mineralId": "2357",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lazurite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lazurite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lazurite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lazurite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Neptunite",
+    "mineralId": "2883",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Neptunite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Neptunite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Neptunite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Neptunite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Eskolaite",
+    "mineralId": "1411",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Eskolaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Eskolaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Eskolaite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Eskolaite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Wallkilldellite-(Fe)",
+    "mineralId": "7361",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wallkilldellite-(Fe)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wallkilldellite-(Fe)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wallkilldellite-(Fe)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wallkilldellite-(Fe)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Senarmontite",
+    "mineralId": "3618",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Senarmontite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Senarmontite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Senarmontite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Senarmontite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Lindgrenite",
+    "mineralId": "2405",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lindgrenite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lindgrenite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lindgrenite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lindgrenite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Leisingite",
+    "mineralId": "7151",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leisingite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leisingite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leisingite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leisingite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Pilsenite",
+    "mineralId": "3213",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pilsenite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pilsenite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pilsenite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pilsenite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Triplite",
+    "mineralId": "4021",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Triplite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Triplite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Triplite_3.jpg"
+    ]
+  },
+  {
+    "name": "Sellaite",
+    "mineralId": "3614",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sellaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sellaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sellaite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sellaite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Fassinaite",
+    "mineralId": "40169",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fassinaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fassinaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fassinaite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fassinaite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kawazulite",
+    "mineralId": "2170",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kawazulite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kawazulite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kawazulite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kawazulite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Lomonosovite",
+    "mineralId": "2428",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lomonosovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lomonosovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lomonosovite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lomonosovite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Cassiterite",
+    "mineralId": "917",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cassiterite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cassiterite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cassiterite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cassiterite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Volborthite",
+    "mineralId": "4200",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Volborthite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Volborthite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Volborthite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Volborthite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Langbeinite",
+    "mineralId": "2320",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Langbeinite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Langbeinite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Langbeinite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Langbeinite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Pizgrischite",
+    "mineralId": "11109",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pizgrischite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pizgrischite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pizgrischite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pizgrischite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Vaughanite",
+    "mineralId": "4162",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vaughanite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vaughanite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vaughanite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vaughanite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Cerussite",
+    "mineralId": "934",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerussite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerussite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerussite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerussite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Herderite",
+    "mineralId": "1876",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Herderite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Herderite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Herderite_3.jpg"
+    ]
+  },
+  {
+    "name": "Palenzonaite",
+    "mineralId": "3065",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Palenzonaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Palenzonaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Palenzonaite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Palenzonaite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Uranosphaerite",
+    "mineralId": "4112",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uranosphaerite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uranosphaerite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uranosphaerite_3.jpg"
+    ]
+  },
+  {
+    "name": "Keiviite-(Yb)",
+    "mineralId": "2178",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Keiviite-(Yb)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Keiviite-(Yb)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Keiviite-(Yb)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Keiviite-(Yb)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Waylandite",
+    "mineralId": "4252",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Waylandite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Waylandite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Waylandite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Waylandite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Birchite",
+    "mineralId": "35925",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Birchite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Birchite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Birchite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Birchite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Ulrichite",
+    "mineralId": "4088",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulrichite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulrichite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulrichite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ulrichite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Sailaufite",
+    "mineralId": "27258",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sailaufite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sailaufite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sailaufite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sailaufite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Fluornatropyrochlore",
+    "mineralId": "40337",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluornatropyrochlore_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluornatropyrochlore_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluornatropyrochlore_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluornatropyrochlore_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Macphersonite",
+    "mineralId": "2513",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Macphersonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Macphersonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Macphersonite_3.jpg"
+    ]
+  },
+  {
+    "name": "Mandarinoite",
+    "mineralId": "2561",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Mandarinoite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Mandarinoite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Mandarinoite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Mandarinoite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Hallimondite",
+    "mineralId": "1807",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hallimondite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hallimondite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hallimondite_3.jpg"
+    ]
+  },
+  {
+    "name": "Frondelite",
+    "mineralId": "1614",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frondelite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frondelite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frondelite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frondelite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Fluoborite",
+    "mineralId": "1566",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluoborite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluoborite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluoborite_3.jpg"
+    ]
+  },
+  {
+    "name": "Melanophlogite",
+    "mineralId": "2630",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Melanophlogite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Melanophlogite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Melanophlogite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Melanophlogite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Tschernichite",
+    "mineralId": "4037",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tschernichite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tschernichite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tschernichite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tschernichite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Halotrichite",
+    "mineralId": "1809",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Halotrichite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Halotrichite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Halotrichite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Halotrichite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Klajite",
+    "mineralId": "32363",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Klajite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Klajite_2.jpg"
+    ]
+  },
+  {
+    "name": "Afghanite",
+    "mineralId": "41",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Afghanite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Afghanite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Afghanite_3.jpg"
+    ]
+  },
+  {
+    "name": "Ferro-fluoro-edenite",
+    "mineralId": "43420",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferro-fluoro-edenite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferro-fluoro-edenite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferro-fluoro-edenite_3.jpg"
+    ]
+  },
+  {
+    "name": "Chevkinite-(Ce)",
+    "mineralId": "6867",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chevkinite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chevkinite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chevkinite-(Ce)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chevkinite-(Ce)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Wicksite",
+    "mineralId": "4284",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wicksite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wicksite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wicksite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wicksite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Bairdite",
+    "mineralId": "43583",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bairdite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bairdite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bairdite_3.jpg"
+    ]
+  },
+  {
+    "name": "Realgar",
+    "mineralId": "3375",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Realgar_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Realgar_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Realgar_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Realgar_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Rammelsbergite",
+    "mineralId": "3357",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rammelsbergite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rammelsbergite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rammelsbergite_3.jpg"
+    ]
+  },
+  {
+    "name": "Alabandite",
+    "mineralId": "89",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Alabandite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Alabandite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Alabandite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Alabandite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Beaverite-(Cu)",
+    "mineralId": "591",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beaverite-(Cu)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beaverite-(Cu)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beaverite-(Cu)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Beaverite-(Cu)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Népouite",
+    "mineralId": "2882",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Népouite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Népouite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Népouite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Népouite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Metauranospinite",
+    "mineralId": "2667",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Metauranospinite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Metauranospinite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Metauranospinite_3.jpg"
+    ]
+  },
+  {
+    "name": "Ilinskite",
+    "mineralId": "7007",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ilinskite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ilinskite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ilinskite_3.jpg"
+    ]
+  },
+  {
+    "name": "Walstromite",
+    "mineralId": "4239",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Walstromite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Walstromite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Walstromite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Walstromite_wiki.png"
+    ]
+  },
+  {
+    "name": "Ershovite",
+    "mineralId": "1405",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ershovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ershovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ershovite_3.jpg"
+    ]
+  },
+  {
+    "name": "Offretite",
+    "mineralId": "2960",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Offretite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Offretite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Offretite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Offretite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Zincsilite",
+    "mineralId": "4416",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincsilite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincsilite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincsilite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincsilite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Dumortierite",
+    "mineralId": "1329",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Dumortierite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Dumortierite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Dumortierite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Dumortierite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Aragonite",
+    "mineralId": "307",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aragonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aragonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aragonite_3.jpg"
+    ]
+  },
+  {
+    "name": "Nambulite",
+    "mineralId": "2835",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nambulite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nambulite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nambulite_3.jpg"
+    ]
+  },
+  {
+    "name": "Samfowlerite",
+    "mineralId": "3513",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Samfowlerite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Samfowlerite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Samfowlerite_3.jpg"
+    ]
+  },
+  {
+    "name": "Reinhardbraunsite",
+    "mineralId": "3387",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Reinhardbraunsite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Reinhardbraunsite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Reinhardbraunsite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Reinhardbraunsite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kostovite",
+    "mineralId": "2260",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kostovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kostovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kostovite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Tikhonenkovite",
+    "mineralId": "3961",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tikhonenkovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tikhonenkovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tikhonenkovite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tikhonenkovite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kobellite",
+    "mineralId": "2233",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kobellite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kobellite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kobellite_3.jpg"
+    ]
+  },
+  {
+    "name": "Haywoodite",
+    "mineralId": "56030",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Haywoodite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Haywoodite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Haywoodite_3.jpg"
+    ]
+  },
+  {
+    "name": "Calciosamarskite",
+    "mineralId": "7962",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Calciosamarskite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Calciosamarskite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Calciosamarskite_3.jpg"
+    ]
+  },
+  {
+    "name": "Yuanfuliite",
+    "mineralId": "4375",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Yuanfuliite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Yuanfuliite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Yuanfuliite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Yuanfuliite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Pharmacoalumite",
+    "mineralId": "158",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pharmacoalumite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pharmacoalumite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pharmacoalumite_3.jpg"
+    ]
+  },
+  {
+    "name": "Celsian",
+    "mineralId": "928",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Celsian_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Celsian_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Celsian_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Celsian_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Elpasolite",
+    "mineralId": "1369",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Elpasolite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Elpasolite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Elpasolite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Elpasolite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Sazhinite-(Ce)",
+    "mineralId": "3546",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sazhinite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sazhinite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sazhinite-(Ce)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sazhinite-(Ce)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Weberite",
+    "mineralId": "4253",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Weberite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Weberite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Weberite_3.jpg"
+    ]
+  },
+  {
+    "name": "Vyuntspakhkite-(Y)",
+    "mineralId": "4222",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vyuntspakhkite-(Y)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vyuntspakhkite-(Y)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vyuntspakhkite-(Y)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vyuntspakhkite-(Y)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Duranusite",
+    "mineralId": "1333",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Duranusite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Duranusite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Duranusite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Duranusite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kurchatovite",
+    "mineralId": "2293",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kurchatovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kurchatovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kurchatovite_3.jpg"
+    ]
+  },
+  {
+    "name": "Villamanínite",
+    "mineralId": "4180",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Villamanínite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Villamanínite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Villamanínite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Villamanínite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Epistolite",
+    "mineralId": "1392",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epistolite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epistolite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epistolite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epistolite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Tausonite",
+    "mineralId": "3895",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tausonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tausonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tausonite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tausonite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Goyazite",
+    "mineralId": "1787",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Goyazite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Goyazite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Goyazite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Goyazite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Tanteuxenite-(Y)",
+    "mineralId": "3883",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tanteuxenite-(Y)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tanteuxenite-(Y)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tanteuxenite-(Y)_3.jpg"
+    ]
+  },
+  {
+    "name": "Overite",
+    "mineralId": "3048",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Overite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Overite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Overite_3.jpg"
+    ]
+  },
+  {
+    "name": "Garronite-Ca",
+    "mineralId": "1653",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Garronite-Ca_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Garronite-Ca_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Garronite-Ca_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Garronite-Ca_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Santaclaraite",
+    "mineralId": "3524",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Santaclaraite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Santaclaraite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Santaclaraite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Santaclaraite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Yavapaiite",
+    "mineralId": "4355",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Yavapaiite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Yavapaiite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Yavapaiite_3.jpg"
+    ]
+  },
+  {
+    "name": "Cerchiaraite-(Mn)",
+    "mineralId": "7081",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerchiaraite-(Mn)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerchiaraite-(Mn)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerchiaraite-(Mn)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cerchiaraite-(Mn)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kokinosite",
+    "mineralId": "46014",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kokinosite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kokinosite_2.jpg"
+    ]
+  },
+  {
+    "name": "Leiteite",
+    "mineralId": "2370",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leiteite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leiteite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leiteite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Leiteite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Donbassite",
+    "mineralId": "6905",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Donbassite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Donbassite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Donbassite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Donbassite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Pahasapaite",
+    "mineralId": "3062",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pahasapaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pahasapaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pahasapaite_3.jpg"
+    ]
+  },
+  {
+    "name": "Schneebergite",
+    "mineralId": "11378",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schneebergite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schneebergite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schneebergite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schneebergite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Grandidierite",
+    "mineralId": "1737",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Grandidierite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Grandidierite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Grandidierite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Grandidierite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Belkovite",
+    "mineralId": "609",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Belkovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Belkovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Belkovite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Belkovite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Gatumbaite",
+    "mineralId": "1659",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gatumbaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gatumbaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gatumbaite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gatumbaite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Schoenfliesite",
+    "mineralId": "3573",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schoenfliesite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schoenfliesite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schoenfliesite_3.jpg"
+    ]
+  },
+  {
+    "name": "Kaliborite",
+    "mineralId": "2136",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kaliborite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kaliborite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kaliborite_3.jpg"
+    ]
+  },
+  {
+    "name": "Martinandresite",
+    "mineralId": "51985",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Martinandresite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Martinandresite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Martinandresite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kimuraite-(Y)",
+    "mineralId": "2208",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kimuraite-(Y)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kimuraite-(Y)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kimuraite-(Y)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kimuraite-(Y)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Cebaite-(Ce)",
+    "mineralId": "923",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cebaite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cebaite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cebaite-(Ce)_3.jpg"
+    ]
+  },
+  {
+    "name": "Pillaite",
+    "mineralId": "10318",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pillaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pillaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pillaite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Pillaite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Uraninite",
+    "mineralId": "4102",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uraninite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uraninite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uraninite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uraninite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Fergusonite-(Y)",
+    "mineralId": "1480",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fergusonite-(Y)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fergusonite-(Y)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fergusonite-(Y)_3.jpg"
+    ]
+  },
+  {
+    "name": "Trechmannite",
+    "mineralId": "4009",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Trechmannite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Trechmannite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Trechmannite_3.jpg"
+    ]
+  },
+  {
+    "name": "Homilite",
+    "mineralId": "1926",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Homilite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Homilite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Homilite_3.jpg"
+    ]
+  },
+  {
+    "name": "Afwillite",
+    "mineralId": "42",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Afwillite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Afwillite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Afwillite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Afwillite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Fluorcalcioroméite",
+    "mineralId": "40367",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluorcalcioroméite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluorcalcioroméite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Fluorcalcioroméite_3.jpg"
+    ]
+  },
+  {
+    "name": "Rosenbergite",
+    "mineralId": "3453",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenbergite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenbergite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenbergite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rosenbergite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Rippite",
+    "mineralId": "47923",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rippite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rippite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rippite_3.jpg"
+    ]
+  },
+  {
+    "name": "Krupkaite",
+    "mineralId": "2278",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Krupkaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Krupkaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Krupkaite_3.jpg"
+    ]
+  },
+  {
+    "name": "Natron",
+    "mineralId": "2858",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Natron_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Natron_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Natron_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Natron_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Ilmenite",
+    "mineralId": "2013",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ilmenite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ilmenite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ilmenite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ilmenite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Magnesiocoulsonite",
+    "mineralId": "2476",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Magnesiocoulsonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Magnesiocoulsonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Magnesiocoulsonite_3.jpg"
+    ]
+  },
+  {
+    "name": "Barlowite",
+    "mineralId": "40276",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Barlowite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Barlowite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Barlowite_3.jpg"
+    ]
+  },
+  {
+    "name": "Althausite",
+    "mineralId": "148",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althausite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althausite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althausite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Althausite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Harstigite",
+    "mineralId": "1822",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Harstigite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Harstigite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Harstigite_3.jpg"
+    ]
+  },
+  {
+    "name": "Feinglosite",
+    "mineralId": "6923",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Feinglosite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Feinglosite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Feinglosite_3.jpg"
+    ]
+  },
+  {
+    "name": "Tangdanite",
+    "mineralId": "42724",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tangdanite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tangdanite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Tangdanite_3.jpg"
+    ]
+  },
+  {
+    "name": "Bayleyite",
+    "mineralId": "582",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bayleyite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bayleyite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bayleyite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bayleyite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Schlossmacherite",
+    "mineralId": "3568",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schlossmacherite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schlossmacherite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Schlossmacherite_3.jpg"
+    ]
+  },
+  {
+    "name": "Woodhouseite",
+    "mineralId": "4311",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Woodhouseite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Woodhouseite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Woodhouseite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Woodhouseite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Ferberite",
+    "mineralId": "1476",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferberite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferberite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferberite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferberite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Kircherite",
+    "mineralId": "39877",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kircherite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kircherite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kircherite_3.jpg"
+    ]
+  },
+  {
+    "name": "Jôkokuite",
+    "mineralId": "2109",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jôkokuite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jôkokuite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jôkokuite_3.jpg"
+    ]
+  },
+  {
+    "name": "Robertsite",
+    "mineralId": "3431",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Robertsite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Robertsite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Robertsite_3.jpg"
+    ]
+  },
+  {
+    "name": "Melanotekite",
+    "mineralId": "2632",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Melanotekite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Melanotekite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Melanotekite_3.jpg"
+    ]
+  },
+  {
+    "name": "Lemmleinite-Ba",
+    "mineralId": "11440",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lemmleinite-Ba_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lemmleinite-Ba_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lemmleinite-Ba_3.jpg"
+    ]
+  },
+  {
+    "name": "Danburite",
+    "mineralId": "1218",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Danburite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Danburite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Danburite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Danburite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Linarite",
+    "mineralId": "2403",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Linarite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Linarite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Linarite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Linarite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Jimthompsonite",
+    "mineralId": "2096",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jimthompsonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jimthompsonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jimthompsonite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jimthompsonite_wiki.png"
+    ]
+  },
+  {
+    "name": "Epsomite",
+    "mineralId": "1393",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epsomite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epsomite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epsomite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Epsomite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Aeschynite-(Y)",
+    "mineralId": "39",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aeschynite-(Y)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aeschynite-(Y)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aeschynite-(Y)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Aeschynite-(Y)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Frankhawthorneite",
+    "mineralId": "6958",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frankhawthorneite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frankhawthorneite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Frankhawthorneite_3.jpg"
+    ]
+  },
+  {
+    "name": "Karelianite",
+    "mineralId": "2158",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Karelianite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Karelianite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Karelianite_3.jpg"
+    ]
+  },
+  {
+    "name": "Andradite",
+    "mineralId": "223",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Andradite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Andradite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Andradite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Andradite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Uakitite",
+    "mineralId": "52913",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uakitite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uakitite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uakitite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Uakitite_wiki.png"
+    ]
+  },
+  {
+    "name": "Jentschite",
+    "mineralId": "5745",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jentschite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jentschite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jentschite_3.jpg"
+    ]
+  },
+  {
+    "name": "Eglestonite",
+    "mineralId": "1357",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Eglestonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Eglestonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Eglestonite_3.jpg"
+    ]
+  },
+  {
+    "name": "Penroseite",
+    "mineralId": "3151",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Penroseite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Penroseite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Penroseite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Penroseite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Ammoniomagnesiovoltaite",
+    "mineralId": "39666",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ammoniomagnesiovoltaite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ammoniomagnesiovoltaite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ammoniomagnesiovoltaite_3.jpg"
+    ]
+  },
+  {
+    "name": "Dusmatovite",
+    "mineralId": "6906",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Dusmatovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Dusmatovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Dusmatovite_3.jpg"
+    ]
+  },
+  {
+    "name": "Zincochromite",
+    "mineralId": "4412",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincochromite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincochromite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincochromite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Zincochromite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Seidozerite",
+    "mineralId": "3607",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Seidozerite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Seidozerite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Seidozerite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Seidozerite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Bartonite",
+    "mineralId": "544",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bartonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bartonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bartonite_3.jpg"
+    ]
+  },
+  {
+    "name": "Jennite",
+    "mineralId": "2087",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jennite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jennite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jennite_3.jpg"
+    ]
+  },
+  {
+    "name": "Nepskoeite",
+    "mineralId": "7189",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nepskoeite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nepskoeite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nepskoeite_3.jpg"
+    ]
+  },
+  {
+    "name": "Falcondoite",
+    "mineralId": "1444",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Falcondoite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Falcondoite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Falcondoite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Falcondoite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Thaumasite",
+    "mineralId": "3933",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Thaumasite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Thaumasite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Thaumasite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Thaumasite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Nefedovite",
+    "mineralId": "2870",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nefedovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nefedovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nefedovite_3.jpg"
+    ]
+  },
+  {
+    "name": "Newberyite",
+    "mineralId": "2887",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Newberyite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Newberyite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Newberyite_3.jpg"
+    ]
+  },
+  {
+    "name": "Chayesite",
+    "mineralId": "974",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chayesite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chayesite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Chayesite_3.jpg"
+    ]
+  },
+  {
+    "name": "Lanthanite-(Nd)",
+    "mineralId": "2327",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lanthanite-(Nd)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lanthanite-(Nd)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lanthanite-(Nd)_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lanthanite-(Nd)_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Vladimirivanovite",
+    "mineralId": "41155",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vladimirivanovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vladimirivanovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Vladimirivanovite_3.jpg"
+    ]
+  },
+  {
+    "name": "Kaersutite",
+    "mineralId": "2129",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kaersutite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kaersutite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kaersutite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kaersutite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Talnakhite",
+    "mineralId": "3877",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Talnakhite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Talnakhite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Talnakhite_3.jpg"
+    ]
+  },
+  {
+    "name": "Meionite",
+    "mineralId": "2627",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Meionite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Meionite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Meionite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Meionite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Violarite",
+    "mineralId": "4187",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Violarite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Violarite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Violarite_3.jpg"
+    ]
+  },
+  {
+    "name": "Rynersonite",
+    "mineralId": "3488",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rynersonite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rynersonite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rynersonite_3.jpg"
+    ]
+  },
+  {
+    "name": "Quenstedtite",
+    "mineralId": "3341",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Quenstedtite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Quenstedtite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Quenstedtite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Quenstedtite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Gormanite",
+    "mineralId": "1729",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gormanite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gormanite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gormanite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gormanite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Ferrisurite",
+    "mineralId": "1501",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferrisurite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferrisurite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Ferrisurite_3.jpg"
+    ]
+  },
+  {
+    "name": "Hügelite",
+    "mineralId": "1942",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hügelite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hügelite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hügelite_3.jpg"
+    ]
+  },
+  {
+    "name": "Geocronite",
+    "mineralId": "1674",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Geocronite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Geocronite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Geocronite_3.jpg"
+    ]
+  },
+  {
+    "name": "Línekite",
+    "mineralId": "43587",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Línekite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Línekite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Línekite_3.jpg"
+    ]
+  },
+  {
+    "name": "Kukisvumite",
+    "mineralId": "2283",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kukisvumite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kukisvumite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Kukisvumite_3.jpg"
+    ]
+  },
+  {
+    "name": "Gortdrumite",
+    "mineralId": "1730",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gortdrumite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gortdrumite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gortdrumite_3.jpg"
+    ]
+  },
+  {
+    "name": "Rémondite-(Ce)",
+    "mineralId": "3388",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rémondite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rémondite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rémondite-(Ce)_3.jpg"
+    ]
+  },
+  {
+    "name": "Rossite",
+    "mineralId": "3460",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rossite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rossite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rossite_3.jpg"
+    ]
+  },
+  {
+    "name": "Cavansite",
+    "mineralId": "921",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cavansite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cavansite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cavansite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Cavansite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Picromerite",
+    "mineralId": "3206",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Picromerite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Picromerite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Picromerite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Picromerite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Villiaumite",
+    "mineralId": "4181",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Villiaumite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Villiaumite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Villiaumite_3.jpg"
+    ]
+  },
+  {
+    "name": "Sillimanite",
+    "mineralId": "3662",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sillimanite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sillimanite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sillimanite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Sillimanite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Gartrellite",
+    "mineralId": "1654",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gartrellite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gartrellite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gartrellite_3.jpg"
+    ]
+  },
+  {
+    "name": "Bechererite",
+    "mineralId": "593",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bechererite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bechererite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Bechererite_3.jpg"
+    ]
+  },
+  {
+    "name": "Jagoite",
+    "mineralId": "2064",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jagoite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jagoite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Jagoite_3.jpg"
+    ]
+  },
+  {
+    "name": "Gerstleyite",
+    "mineralId": "1684",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gerstleyite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gerstleyite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Gerstleyite_3.jpg"
+    ]
+  },
+  {
+    "name": "Rappoldite",
+    "mineralId": "7044",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rappoldite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rappoldite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Rappoldite_3.jpg"
+    ]
+  },
+  {
+    "name": "Groutite",
+    "mineralId": "1756",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Groutite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Groutite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Groutite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Groutite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Wüstite",
+    "mineralId": "4316",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wüstite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wüstite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wüstite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Wüstite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Nagyágite",
+    "mineralId": "2830",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nagyágite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nagyágite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nagyágite_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nagyágite_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Boromuscovite",
+    "mineralId": "729",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Boromuscovite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Boromuscovite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Boromuscovite_3.jpg"
+    ]
+  },
+  {
+    "name": "Manaevite-(Ce)",
+    "mineralId": "53139",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Manaevite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Manaevite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Manaevite-(Ce)_3.jpg"
+    ]
+  },
+  {
+    "name": "Lacroixite",
+    "mineralId": "2310",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lacroixite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lacroixite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Lacroixite_3.jpg"
+    ]
+  },
+  {
+    "name": "Hingganite-(Ce)",
+    "mineralId": "1905",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hingganite-(Ce)_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hingganite-(Ce)_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Hingganite-(Ce)_3.jpg"
+    ]
+  },
+  {
+    "name": "Matildite",
+    "mineralId": "2592",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Matildite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Matildite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Matildite_3.jpg"
+    ]
+  },
+  {
+    "name": "Klaprothite",
+    "mineralId": "46969",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Klaprothite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Klaprothite_2.jpg"
+    ]
+  },
+  {
+    "name": "Emeleusite",
+    "mineralId": "1374",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Emeleusite_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Emeleusite_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Emeleusite_3.jpg"
+    ]
+  },
+  {
+    "name": "Devilline",
+    "mineralId": "1270",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Devilline_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Devilline_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Devilline_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Devilline_wiki.jpg"
+    ]
+  },
+  {
+    "name": "Nosean",
+    "mineralId": "2936",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nosean_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nosean_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nosean_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Cursor10Ju/dsahjkgew@main/images/Nosean_wiki.jpg"
+    ]
+  }
+]
